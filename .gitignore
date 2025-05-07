@@ -28,6 +28,8 @@ detected_microdna_circles.txt
 *.log
 
 # FASTA and BAM files (large data, shouldn't be committed)
+SRR413984.sorted.NC_000001.10.bam
+SRR413984.sorted.NC_000001.10.bam.bai
 *.bam
 *.bai
 *.fna
