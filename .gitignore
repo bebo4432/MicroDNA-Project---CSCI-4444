@@ -30,6 +30,8 @@ detected_microdna_circles.txt
 # FASTA and BAM files (large data, shouldn't be committed)
 SRR413984.sorted.NC_000001.10.bam
 SRR413984.sorted.NC_000001.10.bam.bai
+GCF_000001405.13_GRCh37_genomic.NC_000001.10.fna
+Data/GCF_000001405.13_GRCh37_genomic.NC_000001.10.fna.fai
 *.bam
 *.bai
 *.fna
