@@ -1,0 +1,45 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# WSL/OS-specific
+.DS_Store
+Thumbs.db
+
+# Virtual environment and package manager
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# VS Code settings (optional but common)
+.vscode/
+*.code-workspace
+
+# Output files
+detected_microdna_circles.txt
+*.log
+
+# FASTA and BAM files (large data, shouldn't be committed)
+*.bam
+*.bai
+*.fna
+*.fa
+*.fai
+
+# Build artifacts
+*.so
+*.out
+*.o
+
+# Temporary/debug
+*.swp
+*.tmp
+*.bak
